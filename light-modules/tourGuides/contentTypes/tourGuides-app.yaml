@@ -16,7 +16,9 @@ model:
     - name: birthday
       label: Birthday
       type: Date   
-
+    - name: starSign
+      label: Star sign
+      type: StarSign
     - name: phoneNumbers
       label: Phone Numbers
       type: PhoneNumber
